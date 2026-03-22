@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi，I am ssbt!
 
-<!--
-**kwssbt/kwssbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CSer @ BUPT Class of 2029 | Part-time Runner
 
-Here are some ideas to get you started:
+![GitHub统计](https://github-readme-stats.vercel.app/api?username=kwssbt&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=kwssbt&layout=compact&theme=radical)
+
+## contact me
+
+- qq:3393019220
+- email:3393019220@qq.com
+- email:kakehgarabedian@gmail.com
+- blog:kwssbt.github.io
