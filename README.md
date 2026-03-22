@@ -1,16 +1,14 @@
-# Hi，I am ssbt!
+**Hey, this is ssbt !**
 
-## CSer @ BUPT Class of 2029 | Part-time Runner
+**CSer @ BUPT class of 2029 | Part-time Runner**
 
-![GitHub统计](https://github-readme-stats.vercel.app/api?username=kwssbt&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kwssbt&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwssbt&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
 
+### contact
+- **Email**: [kakehgarabedian@gmail.com](mailto:kakehgarabedian@gmail.com) / [3393019220@qq.com](mailto:3393019220@qq.com)
+- **Blog**: [Current](https://kwssbt.github.io) | [Old](https://ssbt.lilys.top/)
+- **QQ**: 3393019220
 
-![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=kwssbt&layout=compact&theme=radical)
-
-## contact me
-
-- qq:3393019220
-- email:3393019220@qq.com
-- email:kakehgarabedian@gmail.com
-- now blog:https://kwssbt.github.io
-- old blog:https://ssbt.lilys.top/
