@@ -12,4 +12,5 @@
 - qq:3393019220
 - email:3393019220@qq.com
 - email:kakehgarabedian@gmail.com
-- blog:https://kwssbt.github.io
+- now blog:https://kwssbt.github.io
+- old blog:https://ssbt.lilys.top/
