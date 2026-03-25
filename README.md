@@ -8,7 +8,7 @@
 </p>
 
 ### contact
+- **QQ(3393019220)**
 - **Email**: kakehgarabedian@gmail.com 
 - **Blog**: [current](https://kwssbt.github.io) | [used](https://ssbt.lilys.top/)
-- **QQ**: 3393019220
 
